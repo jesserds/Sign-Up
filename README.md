@@ -1,4 +1,4 @@
-<img src="./signup.png" alt="signup" height=350 class="center"/>
+<a href="https://jesserds.github.io/Sign-Up/" target="_blank"><img src="./signup.png" alt="signup" height=350 class="center"/></a>
 
 # The "Sign up" form project
 
